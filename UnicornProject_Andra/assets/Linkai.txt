@@ -1,0 +1,32 @@
+/* Font link */
+<script src="https://kit.fontawesome.com/be364085d2.js" crossorigin="anonymous"></script>
+
+twitter icon:
+<i class="fab fa-twitter"></i>
+
+angle-right:
+<i class="fas fa-angle-right"></i>
+
+quote-right:
+<i class="fas fa-quote-right"></i>
+
+/* ŠRIFTAI */
+<link href="https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300;500;900&family=Francois+One&display=swap" rel="stylesheet">
+
+viršuje:
+font-family: 'Francois One', sans-serif;
+
+pagrindinis:
+font-family: 'Alegreya Sans', sans-serif;
+
+/* SPALVOS */
+
+pilkšva: #efefef
+tamsiai pilki laukai/juodi: #222222
+" vieta: #212121
+pagrindine fono spalva: #ffffff
+facts&numbers vieta: uztamsinimas - #4d4d4d
+                     sviesiau - #898989
+pabaiga: #212121
+
+SELECT * FROM `klientai` 
